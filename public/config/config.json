@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x446F4E72084E0043eA5e0E9E156D4f98b5Fdd260",
+  "SCAN_LINK": "https://etherscan.io/token/0x446f4e72084e0043ea5e0e9e156d4f98b5fdd260",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "YareYareNeko",
+  "SYMBOL": "YYN",
+  "MAX_SUPPLY": 111,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0.000,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/yareyareneko",
+  "SHOW_BACKGROUND": true
+}
